@@ -15,3 +15,9 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
+
+-keep public class com.antibyteapps.** { public *;}
+-keep public enum * {
+    public static **[] values();
+    public static ** valueOf(java.lang.String);
+}

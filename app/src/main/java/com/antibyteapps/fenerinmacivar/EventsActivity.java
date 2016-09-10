@@ -18,9 +18,6 @@ import android.widget.TextView;
 
 import com.antibyteapps.fenerinmacivar.network.EventStatus;
 import com.antibyteapps.fenerinmacivar.network.MatchEvent;
-import com.google.android.gms.ads.AdSize;
-import com.antibyteapps.fenerinmacivar.R;
-import com.antibyteapps.middleware.base.AdInfo;
 import com.antibyteapps.middleware.base.BaseActivity;
 
 import org.apache.commons.lang3.StringUtils;

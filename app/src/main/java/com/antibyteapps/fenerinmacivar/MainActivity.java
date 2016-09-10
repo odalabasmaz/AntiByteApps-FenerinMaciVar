@@ -4,10 +4,9 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.antibyteapps.fenerinmacivar.network.FBConnect;
 import com.antibyteapps.fenerinmacivar.network.GetContentAsyncTask;
 import com.antibyteapps.fenerinmacivar.network.MatchEvent;
-import com.antibyteapps.fenerinmacivar.R;
-import com.antibyteapps.fenerinmacivar.network.FBConnect;
 import com.antibyteapps.middleware.base.BaseActivity;
 
 import org.jsoup.nodes.Document;
